@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">bz1</string>
+    <string name="search">search</string>
+    <string name="content_description_search">content_description_search</string>
+    <string name="more">more</string>
+    <string name="content_description_more">content_description_more</string>
 </resources>
